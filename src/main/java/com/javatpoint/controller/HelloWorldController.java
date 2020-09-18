@@ -9,6 +9,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWorldController {
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello Sharmin" + "shabbir"+"zara"+"rida";
+		return "Hello India";
+	}
+	
+	
+	public String addMethod(){
+		
+		return "I am from add Method";
 	}
 }
