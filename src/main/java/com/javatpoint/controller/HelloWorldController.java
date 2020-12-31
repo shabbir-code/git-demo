@@ -24,4 +24,10 @@ public class HelloWorldController {
 		return "I am from add Method";
 
 	}
+	
+	public String calculateTripDeails(){
+		
+		
+		return "I will calculate TRIP details ";
+	}
 }
