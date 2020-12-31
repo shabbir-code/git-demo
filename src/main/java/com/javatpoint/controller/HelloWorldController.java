@@ -10,7 +10,7 @@ public class HelloWorldController {
 	@GetMapping("/hello")
 	public String hello() {
 
-		return "Hello USA";
+		return "Hello UNITED STATES OF AMERICA";
 	}
 
 	public void deleteMethod() {
