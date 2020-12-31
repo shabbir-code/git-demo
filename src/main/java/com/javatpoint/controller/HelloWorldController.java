@@ -30,4 +30,8 @@ public class HelloWorldController {
 		
 		return "I will calculate TRIP details ";
 	}
+	
+	public String getAddress(){
+		
+		return "I will bring address"
 }
