@@ -11,11 +11,13 @@ public class HelloWorldController {
 	public String hello() {
 
 		return "Hello UNITED STATES OF AMERICA";
+		
 	}
 
 	public void deleteMethod() {
 
 		System.out.println("I am delete Method");
+		System.out.println("I am delete again");
 
 	}
 
