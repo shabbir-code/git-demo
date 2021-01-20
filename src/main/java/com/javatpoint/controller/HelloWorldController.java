@@ -38,8 +38,15 @@ public class HelloWorldController {
 		return "I will bring address";
 	}
 	
+
 	public String getReservation(){
 		
 		return "reservation demo";
 	}
+
+	public String getCreditCardDetails(){
+		
+		return "credit card detaitls";
+	}	
+
 }
