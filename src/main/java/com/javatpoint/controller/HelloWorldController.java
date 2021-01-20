@@ -36,5 +36,10 @@ public class HelloWorldController {
 	public String getAddress(){
 		
 		return "I will bring address";
-	}			
+	}
+	
+	public String getCreditCardDetails(){
+		
+		return "credit card detaitls";
+	}	
 }
