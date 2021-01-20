@@ -36,5 +36,10 @@ public class HelloWorldController {
 	public String getAddress(){
 		
 		return "I will bring address";
-	}			
+	}
+	
+	public String getReservation(){
+		
+		return "reservation demo";
+	}
 }
