@@ -14,4 +14,9 @@ public class HelloWorldController {
 		
 	}
 	
+	public String helloIndia() {
+		
+		return "Hello India!!";
+	}
+	
 }
