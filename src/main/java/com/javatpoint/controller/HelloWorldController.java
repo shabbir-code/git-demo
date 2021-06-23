@@ -25,4 +25,11 @@ public class HelloWorldController {
 		return true;
 	}
 	
+	//conflict method
+	public void bookReservation() {
+		
+		
+	}
+	
+	
 }
