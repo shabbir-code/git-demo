@@ -27,6 +27,13 @@ public class HelloWorldController {
 	
 	public void validateGreenCard(){
 		
-	}	
+	}
+	
+	//conflict method
+	public void bookReservation() {
+		
+		
+	}
+	
 	
 }
