@@ -25,4 +25,8 @@ public class HelloWorldController {
 		return true;
 	}
 	
+	public void validateGreenCard(){
+		
+	}	
+	
 }
