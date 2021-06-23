@@ -19,4 +19,10 @@ public class HelloWorldController {
 		return "Hello India!!";
 	}
 	
+	
+	public boolean validateSouthAfricanId(){
+		
+		return true;
+	}
+	
 }
