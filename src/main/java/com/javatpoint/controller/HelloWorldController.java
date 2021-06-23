@@ -36,4 +36,10 @@ public class HelloWorldController {
 	}
 	
 	
+	public void bookRCIReservation() {
+		
+		
+	}
+	
+	
 }
